@@ -7,8 +7,8 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 # Installation
 
 * Install Visual Studio Code (VS Code) from [here](https://code.visualstudio.com/)
-* Install Python from VS Code extensions. 
-* Install the following packages (if you already has [Anaconda](https://www.anaconda.com/), you can skip this step)
+* Install Anaconda from [here](https://www.anaconda.com/) and connect Anaconda to VS Code. Here is a [tutorial](https://opensourceoptions.com/blog/setup-anaconda-python-to-work-with-visual-studio-code-on-windows/)
+* Install the following packages
   ```
   pip install scipy
   pip install scikit-learn
@@ -19,6 +19,7 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
   ```
   pip install torch torchvision torchaudio
   ```
+* If questions with installation, check Q&A at the end. 
 
 # Code Completion
 
