@@ -27,7 +27,7 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 * For the third TODO, you have to define the cross-entropy loss.
 * For the last TODO, you have to define the Adam optimizer with the specified learning rate.
 
-# Training and Testing
+# Default Hyperparameter 
 
 * Run in terminal:
   ```
@@ -40,7 +40,7 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 
 * Adjust the batch size and the learning rate to see how the model performance changes.
 * Note that you should keep the three images for each experiment.
-* For the experiments with different batch sizea, run the following command in the terminal:
+* For the experiments with different batch sizes, run the following command in the terminal:
   ```
   python main_q1.py --model lenet --batch_size 16
   python main_q1.py --model lenet --batch_size 32
@@ -59,6 +59,8 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 * For the default-hyperparameter experiment:
   * What is the trend for training and validation loss?
   * Why does this happen? You may want to look at [overfitting](https://en.wikipedia.org/wiki/Overfitting). 
+  * According to the [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix) and [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) visualization, do all categories (0-9) perform well or poorly?
+  * What is the reason behind their performance?
 * For the hyperparameter-tuning experiments
   * Do smaller or larger batch sizes lead to lower validation loss? Why?
   * Do smaller or larger learning rates lead to lower validation loss? Why?
@@ -68,6 +70,15 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 
 * Complete the class AlexNet(), and run training and testing. 
 * Does AlexNet perform better than LeNet? Why?
+
+# Submission
+
+* Include all the results in a PDF file.
+* The PDF file should contain the following information, from top to bottom:
+  * Your name, email, and student ID.
+  * Codes for the four TODOs. 
+  * PNG images from ALL experiments (each row: `confusion.png`, `loss.png`, and `t-SNE.png`)
+  * Short answers for ALL questions for the ``Results and Discussion`` section.
 
 # References
 * LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.
