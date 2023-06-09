@@ -1,4 +1,4 @@
-# MATH_32_HW1
+# MATH_32_HW1 
 
 # Overview
 
@@ -79,6 +79,9 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
   * Codes for the four TODOs. 
   * PNG images from ALL experiments (each row: `confusion.png`, `loss.png`, and `t-SNE.png`)
   * Short answers for ALL questions for the ``Results and Discussion`` section.
+
+# Deadline:
+* 06/23/2023
 
 # References
 * LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.
