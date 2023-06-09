@@ -2,7 +2,7 @@
 
 # Overview
 
-In this assignment, you will implement the LeNet convolutional neural network (convnets) using PyTorch for MNIST digit recognition. You will also design relevant loss functions, and configure suitable optimizers. Besides, you will gain experience in hyperparameter tuning, specifically focusing on adjusting the batch size and learning rate. The ultimate goal is to give you practical exposure to building and optimizing a deep learning model, providing a solid foundation for future, more complex tasks.
+In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki/LeNet#:~:text=In%20general%2C%20LeNet%20refers%20to,in%20large%2Dscale%20image%20processing.) convolutional neural network (convnets) using [PyTorch](https://pytorch.org/) for [MNIST](http://yann.lecun.com/exdb/mnist/) digit recognition. You will also design relevant loss functions, and configure suitable optimizers. Besides, you will gain experience in hyperparameter tuning, specifically focusing on adjusting the batch size and learning rate. The ultimate goal is to give you practical exposure to building and optimizing a deep learning model, providing a solid foundation for future, more complex tasks.
 
 # Installation
 
