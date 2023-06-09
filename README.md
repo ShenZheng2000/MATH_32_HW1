@@ -8,8 +8,9 @@ In this assignment, you will implement the [LeNet](https://en.wikipedia.org/wiki
 
 * Install Visual Studio Code (VS Code) from [here](https://code.visualstudio.com/)
 * Install Python from VS Code extensions. 
-* Install the following packages (if you already has Anaconda, you can skip this step)
+* Install the following packages (if you already has [Anaconda](https://www.anaconda.com/), you can skip this step)
   ```
+  pip install scipy
   pip install scikit-learn
   pip install matplotlib
   pip install numpy
