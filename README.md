@@ -77,13 +77,16 @@ For all questions related to this homework, please open a **github issue** so ot
 * Does AlexNet perform better than LeNet? Why?
 
 # Submission
-
-* Include all the results in a PDF file.
+* **NOTE: Updated 6/20/2023**
+* Navigate to the submission folder for HW1 at [here]([https://drive.google.com/drive/folders/1RRlAoWawx3h7QNEEkcCrInPIu2O58z3h](https://drive.google.com/drive/folders/1hwGsferj7bGmZqLrkaAbrAr6xOtCwqot))
+* Locate the folder with your name. 
+* Include all of your results into a single PDF file.
 * The PDF file should contain the following information, from top to bottom:
   * Your name, email, and student ID.
   * Codes for the four TODOs. 
   * PNG images from ALL experiments (each row: `confusion.png`, `loss.png`, and `t-SNE.png`)
   * Short answers for ALL questions for the ``Results and Discussion`` section.
+* Submit the PDF file by placing it in your folder.
 
 # Deadline:
 * 06/23/2023
