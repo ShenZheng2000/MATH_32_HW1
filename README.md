@@ -89,7 +89,7 @@ For all questions related to this homework, please open a **github issue** so ot
 * Submit the PDF file by placing it in your folder.
 
 # Deadline:
-* 06/23/2023
+* **06/23/2023**
 
 # References
 * LeCun, Yann, et al. "Gradient-based learning applied to document recognition." Proceedings of the IEEE 86.11 (1998): 2278-2324.
